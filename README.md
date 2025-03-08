@@ -1,6 +1,4 @@
-# RNA_Seq_Pipeline
-# Create and save the README.md file
-readme_content = """# RNA Sequencing and Differential Abundance Analysis Pipeline
+# RNA Sequencing and Differential Abundance Analysis Pipeline
 
 ## Overview
 This project analyzes RNA-Seq data from **GSE270472** to study transcriptional deregulation in Huntington's Disease (HD). The pipeline processes sequencing data, identifies differentially expressed genes (DEGs), and performs pathway analysis.
